@@ -16,7 +16,8 @@ I build highly advanced mathematical systems, interactive web applications, and 
 
 ---
 
-📬 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/siviwe-tukushe) | [Website](https://khuze-trading-academy.vercel.app)
+📬 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/siviwe-tukushe-0179bb407
+) | [Website](https://khuze-trading-academy.vercel.app)
 ## Hi there 👋
 
 <!--
